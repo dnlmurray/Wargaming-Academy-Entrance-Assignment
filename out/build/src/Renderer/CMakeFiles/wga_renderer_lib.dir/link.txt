@@ -1,2 +1,0 @@
-/usr/bin/ar qc libwga_renderer_lib.a CMakeFiles/wga_renderer_lib.dir/IndexBuffer.cpp.o CMakeFiles/wga_renderer_lib.dir/Shader.cpp.o CMakeFiles/wga_renderer_lib.dir/VertexArray.cpp.o CMakeFiles/wga_renderer_lib.dir/Window.cpp.o
-/usr/bin/ranlib libwga_renderer_lib.a
